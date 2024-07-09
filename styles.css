@@ -1,0 +1,14 @@
+body{
+    background-color: #ff8800;
+    color: #fff;
+    font-family: "Times New Roman";
+}
+
+h1{
+    color: #ff0000;
+}
+
+ul,
+ol,h2,p,h4{
+    color: #0022ff
+}
